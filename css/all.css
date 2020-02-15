@@ -1,0 +1,48 @@
+body {
+    font-family: Microsoft JhengHei;
+}
+
+.btn {
+    border-width: 2px;
+}
+
+.form-control {
+    border-width: 2px;
+}
+
+.header-carousel-item {
+    height: 450px;
+}
+
+.bg-cover {
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, .6);
+}
+
+@media (min-width: 768px) {
+    .text-md-dark {
+        color: #333;
+    }
+}
+
+.carousel-inner .banner01 {
+    background-image: url(../images/banner01.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-inner .banner02 {
+    background-image: url(../images/banner02.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-inner .banner03 {
+    background-image: url(../images/banner03.jpg);
+    background-size: cover;
+    background-position: center center;
+}
