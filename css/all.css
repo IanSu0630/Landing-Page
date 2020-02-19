@@ -58,3 +58,29 @@ body {
     background-size: cover;
     background-position: center center;
 }
+
+.intro {
+    position: relative;
+}
+
+.intro .introImg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-image: url(../images/inn01.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.happy {
+    position: relative;
+}
+
+.happyImg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-image: url(../images/inn02.jpg);
+    background-size: cover;
+    background-position: center center;
+}
