@@ -2,7 +2,7 @@
 ### 概述：Bootstrap切版練習
 ### 技術：HTML、CSS、Bootstrap、RWD
 ### Demo：
-#### 首頁：卡片式排版與 Grid System 排版、圖表資訊、表單排版
+#### 首頁：卡片式排版與 Grid System 排版、背景圖輪播、Modal 互相切換、混合式排版、前端表單驗證
 ![readme01](https://github.com/IanSu0630/LandingPage/blob/master/readme_img/readme01.PNG)
 ---
 ![readme02](https://github.com/IanSu0630/LandingPage/blob/master/readme_img/readme02.PNG)
