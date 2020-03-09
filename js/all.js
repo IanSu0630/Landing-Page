@@ -45,21 +45,3 @@ $(document).ready(function () {
         });
     });
 })
-
-
-// Google Map
-var map;
-
-function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-        center: { lat: 25.0325653, lng: 121.56335 },
-        zoom: 17
-    });
-
-    var marker = new google.maps.Marker({
-        position: { lat: 25.032113, lng: 121.563709 },
-        map: map,
-        title: '伊恩日式居酒屋',
-        icon: 'images/icon_marker.png'
-    })
-}
